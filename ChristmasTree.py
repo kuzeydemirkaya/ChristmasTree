@@ -1,3 +1,4 @@
+
 y = int(input("Bir sayi gir:"))
 for i in range(0, y):
     a = i + 1
@@ -17,3 +18,5 @@ for i in range(0, y):
         h = 2*i + 1
         j = y - g
         print(" " * j + "*" * h)
+
+        
