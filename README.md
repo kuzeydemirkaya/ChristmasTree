@@ -1,2 +1,2 @@
 # ChristmasTree
-Simple xmas Tree made out of asterisks
+Simple xmas Tree made out of asterisks compiled in Python
